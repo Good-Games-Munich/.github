@@ -1,3 +1,11 @@
+<p align="center">
+    <!-- https://github.com/stefanjudis/github-light-dark-image-example -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.github.com/Good-Games-Munich/assets/main/logos/GGM_logo_white.png">
+        <img alt="Logo" src="https://raw.github.com/Good-Games-Munich/assets/main/logos/GGM_logo_black.png" height="150">
+    </picture>
+</p>
+
 # 🎮 Good Games Munich
 
 Our mission at Good Games Munich is to propel E-sports forward, with a special focus on the cherished video game "Super Smash Bros. Melee". We are dedicated to facilitating communication between experienced E-sports players and newcomers, curating engaging tournaments, public events, and regular meet-ups. Our commitment lies in promoting responsible E-sport practices and supporting the use of classic electronic gaming devices, all while fostering an inclusive and non-profit environment.
@@ -12,7 +20,7 @@ Our mission at Good Games Munich is to propel E-sports forward, with a special f
 - [German Melee Discord](https://discord.gg/VU2jRsa)
 - [Munich Ultimate Smash Twitter](https://twitter.com/munichsmash)
 - [Bayern Ultimate Smash Discord](https://discordapp.com/invite/Azp7q8r)
-- [Smash Melee Bayern Facebookgroup]( https://www.facebook.com/groups/smash.bayern/)
+- [Smash Melee Bayern Facebookgroup](https://www.facebook.com/groups/smash.bayern/)
 - [Website Munich eSport e.V.](https://munich-esports.de/)
 - [Website Cafe Netzwerk](https://www.cafe-netzwerk.de/)
 
